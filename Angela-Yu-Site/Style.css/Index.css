@@ -30,3 +30,7 @@ body{
     font-weight: bold;
 
 }
+.Footer-info {
+    background-color: antiquewhite;
+    position: absolute;
+}
